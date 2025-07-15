@@ -1,4 +1,4 @@
-AI Projects for Government Pharmaceutical Organization (GPO)
+# AI Projects for Government Pharmaceutical Organization (GPO)
 
 This project showcases two AI-driven solutions developed for the Government Pharmaceutical Organization (GPO) of Thailand, using KNIME Analytics Platform. The solutions aim to improve customer understanding and reverse formulation prediction from pharmaceutical sales and production data.
 

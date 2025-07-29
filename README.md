@@ -3,6 +3,8 @@
 This project showcases two AI-driven solutions developed for the **Government Pharmaceutical Organization (GPO) of Thailand** using the **KNIME Analytics Platform**. The goal is to enhance customer insights and enable reverse formulation prediction using pharmaceutical sales and production data.
 
 
+![Demo Screenshot](workflow.png)
+
 ---
 
 ## 🔍 Project 1: Customer Segmentation

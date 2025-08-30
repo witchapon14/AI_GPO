@@ -55,11 +55,11 @@ Predict raw material combinations (`X1, X2, ..., Xn`) from desired output result
 
 Project 1
 - `drug.ipynb` - extract data to joblib model
-- `data_profiling.ipynb` - Exploratory data analysis 
+- `data_profiling.ipynb` - Exploratory data analysis
+- `Sales.csv` - Sample sales dataset used in the workflow
 
 Project 2
 - `ETL_data.csv` – Sample drug formula used in the workflow
-- `Sales.csv` - Sample sales dataset used in the workflow
 
 
 ---

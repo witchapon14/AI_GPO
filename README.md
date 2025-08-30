@@ -54,7 +54,10 @@ Predict raw material combinations (`X1, X2, ..., Xn`) from desired output result
 - `AI_GPO.knwf` – Main KNIME workflow
 - `ETL_data.csv` – Sample drug formula used in the workflow
 - `Sales.csv` - Sample sales dataset used in the workflow
-- `drug.ipynb` - extract data to joblib model 
+- `drug.ipynb` - extract data to joblib model
+- `data_profiling.ipynb` - Exploratory data analysis 
+
+
 ---
 
 ## 📥 How to Use

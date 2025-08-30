@@ -36,7 +36,7 @@ Predict raw material combinations (`X1, X2, ..., Xn`) from desired output result
 ## 🛠️ Tools & Technologies
 - **KNIME Analytics Platform**
 - Clustering: K-Means, Hierarchical
-- Regression: Linear Models, Decision Trees
+- Regression: Random forest, MultiOutputRegressor
 - Visualization: KNIME native plotting tools
 
 ---

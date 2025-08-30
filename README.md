@@ -32,7 +32,6 @@ Predict raw material combinations (`X1, X2, ..., Xn`) from desired output result
 - Modeled reverse mapping using regression in **KNIME**
 - Reduced trial-and-error in pharmaceutical R&D
 
----
 
 ##  Tools & Technologies
 - **KNIME Analytics Platform**

@@ -7,22 +7,26 @@ This project showcases two AI-driven solutions developed for the **Government Ph
 
 ---
 
-## 🔍 Project 1: Customer Segmentation
+## Project 1: Customer Segmentation
 
-### 🎯 Objective
+### Objective
 Segment customers based on drug sales data to improve:
 - Targeted marketing
 - Inventory planning
 - Distribution strategies
 
-### 🧠 Approach
+### Approach
 - Preprocessed and analyzed sales data using **KNIME**
 - Applied clustering algorithms like **K-Means**
 - Created customer profiles based on behavior and purchase patterns
 
+### EDA
+
+
+
 ---
 
-## 🔁 Project 2: Reverse Formula Prediction
+## Project 2: Reverse Formula Prediction
 
 ### 🎯 Objective
 Predict raw material combinations (`X1, X2, ..., Xn`) from desired output results (`Y1, Y2, ..., Yn`).

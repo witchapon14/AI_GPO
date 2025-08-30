@@ -20,12 +20,6 @@ Segment customers based on drug sales data to improve:
 - Applied clustering algorithms like **K-Means**
 - Created customer profiles based on behavior and purchase patterns
 
-### EDA Picture
-
-![Demo Screenshot](EDA_pic/sim1.png)
-![Demo Screenshot](EDA_pic/sim2.png)
-![Demo Screenshot](EDA_pic/sim4.png)
-
 
 ---
 
@@ -46,15 +40,26 @@ Predict raw material combinations (`X1, X2, ..., Xn`) from desired output result
 - Regression: Random forest, MultiOutputRegressor
 - Visualization: KNIME native plotting tools
 
+### EDA Picture
+
+![Demo Screenshot](EDA_pic/sim1.png)
+![Demo Screenshot](EDA_pic/sim2.png)
+![Demo Screenshot](EDA_pic/sim4.png)
+
+
 ---
 
 ##  Files Included
 
 - `AI_GPO.knwf` – Main KNIME workflow
-- `ETL_data.csv` – Sample drug formula used in the workflow
-- `Sales.csv` - Sample sales dataset used in the workflow
+
+Project 1
 - `drug.ipynb` - extract data to joblib model
 - `data_profiling.ipynb` - Exploratory data analysis 
+
+Project 2
+- `ETL_data.csv` – Sample drug formula used in the workflow
+- `Sales.csv` - Sample sales dataset used in the workflow
 
 
 ---

@@ -22,6 +22,10 @@ Segment customers based on drug sales data to improve:
 
 ### EDA
 
+![Demo Screenshot](EDA_pic/sim1.png)
+![Demo Screenshot](EDA_pic/sim2.png)
+![Demo Screenshot](EDA_pic/sim3.png)
+![Demo Screenshot](EDA_pic/sim4.png)
 
 
 ---
